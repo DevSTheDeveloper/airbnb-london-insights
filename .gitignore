@@ -1,0 +1,25 @@
+calendar.csv.gz
+calendar.csv
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Python junk
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.env
+*.venv
+*.egg-info/
+
+# VS Code
+.vscode/
+
+# Environment/virtualenv folders
+env/
+venv/
